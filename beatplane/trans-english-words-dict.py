@@ -1,6 +1,7 @@
 #!/opt/python374/bin/python3.7
 dic = dict()
-file = "little-school-english-words.list"
+#file = "little-school-english-words.list"
+file = "python.txt"
 with open(file,'r') as f:
   for line in f:
     if not line:
