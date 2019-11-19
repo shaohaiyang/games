@@ -9,7 +9,6 @@ chinese
 class
 clock
 cold
-cold?
 colour
 computer
 cool
@@ -17,7 +16,6 @@ desk
 dog
 dress
 duck
-duck?
 eight
 eleven
 english
