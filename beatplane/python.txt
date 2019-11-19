@@ -32,7 +32,7 @@ lambda
 turtle
 random
 randint
-range          
+range
 ht
 st
 up
